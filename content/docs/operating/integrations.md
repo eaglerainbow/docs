@@ -24,6 +24,7 @@ For service discovery mechanisms not natively supported by Prometheus,
 
  * [Docker Swarm](https://github.com/ContainerSolutions/prometheus-swarm-discovery)
  * [Scaleway](https://github.com/scaleway/prometheus-scw-sd)
+ * [Promregator](https://github.com/promregator/promregator) (discovery and scraping for Cloud Foundry applications)
 
 ## Remote Endpoints and Storage
 
